@@ -1,3 +1,4 @@
+import 'whatwg-fetch';
 const lunr = require('lunr')
 const { enhanceLunr } = require('./common.js')
 
